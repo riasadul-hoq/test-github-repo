@@ -5,10 +5,12 @@ h1 {
 div {
     font-family: 'Courier New', Courier, monospace;
     background-color: blueviolet;
-    margin: 20px;
+    margin: 50px;
     padding: 5px;
     border: 5px solid greenyellow;
+    border-radius: 20px;
     text-align: justify;
+    box-shadow: -5px 10px 10px greenyellow;
 }
 
 p::first-letter {
